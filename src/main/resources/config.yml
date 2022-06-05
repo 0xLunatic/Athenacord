@@ -1,0 +1,8 @@
+server:
+  webhook-link : "https://discord.com/api/webhooks/982884265278730330/D1yhf6e6q-WUBsWVkbt6HkndW55T69avHzxwY2dsv942nGG2HXyhasHFvhuCpi-5A7T3"
+format:
+  username: "Athena Reporter"
+  title: "Player Report"
+  footer: "Crazy Network Banned Report"
+  footer-images: "https://i.imgur.com/UomCbp7.jpg"
+  avatar-url: "https://i.pinimg.com/564x/2c/41/42/2c41425598be8c992e66bcdb006af04c.jpg"

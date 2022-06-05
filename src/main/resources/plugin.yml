@@ -1,0 +1,6 @@
+name: Athenacord
+version: '${project.version}'
+main: athena.discord.Main
+api-version: 1.16
+authors: [ Mornov ]
+description: Minecraft Plugin that hook to Discord
