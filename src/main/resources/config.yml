@@ -1,5 +1,5 @@
 server:
-  webhook-link : "https://discord.com/api/webhooks/982884265278730330/D1yhf6e6q-WUBsWVkbt6HkndW55T69avHzxwY2dsv942nGG2HXyhasHFvhuCpi-5A7T3"
+  webhook-link : ""
 format:
   username: "Athena Reporter"
   title: "Player Report"
